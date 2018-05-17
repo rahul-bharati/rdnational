@@ -1,0 +1,100 @@
+R.D. National College principal*
+	<!-- Marquee Notice -->
+	<hr class="afterfix" />
+
+	<!-- Important links -->
+	<div class="container">
+		<div class="row">
+			<div class="col text-center">
+				<span class="d-block">
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque maxime voluptatum at ad dolorem quae.
+			</span>
+				<span class="d-block">
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque maxime voluptatum at ad dolorem quae.
+			</span>
+				<span class="d-block">
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque maxime voluptatum at ad dolorem quae.
+			</span>
+			</div>
+		</div>
+	</div>
+	<hr/>
+	<div class="mb-4"></div>
+
+	<!-- main section -->
+	<div class="clearfix"></div>
+	<div class="mt-2"></div>
+	<div class="container-fluid text-justify">
+		<div class="row main-area">
+			<!-- Events area -->
+			<div class="col-lg-4 events-area novbox-area">
+				<div class="events row mb-3">
+					<div class="col">
+						<span class="title">Quick Links</span>
+						<nav class="navbox">
+							<ul class="navbox-nav">
+								<li class="navbox-item"><a id="college-profile-link" class="navbox-link">College Profile</a></li>
+								<li class="navbox-item"><a id="principal-message-link" class="navbox-link navbox-link-active">Principal's Message</a></li>
+								<li class="navbox-item"><a id="hnsc-board-link" class="navbox-link">HNSC Board</a></li>
+								<li class="navbox-item"><a id="about-history-link" class="navbox-link">History</a></li>
+								<li class="navbox-item"><a id="about-legacy-link" class="navbox-link">Legacy</a></li>
+								<li class="navbox-item"><a id="about-contact-link" class="navbox-link">Contact us</a></li>
+								<li class="navbox-item"><a id="hnsc-members-link" class="navbox-link">HSNCB Members</a></li>
+								<li class="navbox-item"><a id="college-administration-link" class="navbox-link">College Administration</a></li>
+								<li class="navbox-item"><a id="head-of-department-link" class="navbox-link">Head of department</a></li>
+								<li class="navbox-item"><a id="office-staff-link" class="navbox-link">Office Staff</a></li>
+							</ul>
+						</nav>
+					</div>
+				</div>
+
+			</div>
+			<!--content Area-->
+			<div class="col-lg-8 ">
+				<div class="row mb-3 content-area">
+					<div class="col">
+						<span class="title d-block mb-2">From the Principal's desk</span>
+						<span class="mb-2 d-block">
+							<img src="img/dinesh_panjwani.jpg" alt="dinesh panjwani" class="img-fluid img" align="right">
+							R.D. National College, a 66 year old institution, which was established by Sindhi migrants, after being displaced during the partition of India. A district honour was achieved by the college in 2012-2013, by the visit of Dr. Abdul Kalam, forever President of India. His presence and his interaction with the students will remain etched in our memories for many years to come. It is rightly said that
+“He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.” (Epicpetus)
+						</span>
+						<span class="text-justify d-block mb-3">
+						The College provides every single facility which a student needs for his / her academic, social, physical and moral development. We expect that the students of this College shall make the fullest use of the available facilities. Some important academic components, which every student of this College should make efforts to be a part of, are:
+					</span>
+						<ol class="princial-list">
+
+						<li class="mb-2">Tutor System and Mentor System, which establish a bond of academic exposition among the students and faculty.</li>
+
+						<li class="mb-2">House Systems, N.S.S, Nature Club, Sports which Inculcate the values of Team Spirit, Community Service & Camp Experience.</li>
+
+						<li class="mb-2">Honors System and Community Awareness and Assement Survey Project (CAASP) which promote research culture amongst students. The In-House Internship programs provide the students with In-House avenues for exposition of theory.</li>
+
+						<li class="mb-2">Bridge Course at the beginning of the term and Intensive Coaching, Open Book Tests and Preliminary Tests before the Term End Examination should be taken seriously by the students to enhance their performance in the examination.</li>
+
+						<li class="mb-2">Remedial Coaching: Remedial Teaching for different classes in order to strengthen the  linguistic, numerical and composition skills of our students.</li>
+
+						<li class="mb-2">Cultural Forums like the Arts Forum, Marathi Vangmay Mandal, Science Association, Commerce Association, Sindhi Sahit Sangat and similar others which the students to the Indian cultural ethos.</li>
+
+						<li class="mb-2">Y.C.M.O.U. and Vocational Courses which a student of this College can pursue alongwith their regular Degree Course and thereby earn the Dual Degree.</li>
+
+						<li class="mb-2">The College also seeks support from students towards encouraging school dropouts, especially women, to enrol for pre-preparatory course of Y.C.M.O.U.</li>
+
+					</ol>
+						<span class="text-justify d-block mb-3">
+						All activities are geared to instil social and moral responsiblity and help in character development of every student. Therefore, we seek student participation in all the activities conducted by the College.
+					</span>
+						<span class="text-justify d-block mb-3">
+						The College is like a bridge which transports the students from ignorance to knowledge.</span>
+						<B><CENTER>“Praise the Bridge that carries you over” (George Colman)</CENTER></B>
+						<BR>
+						<p align="right">
+						<B>Mr. Dinesh Panjwani</B><BR>
+						Principal
+						</p>
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
